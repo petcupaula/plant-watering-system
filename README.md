@@ -44,7 +44,9 @@ $ idf.py monitor
 
 A very very basic example of a plant watering system. Just need to open the sketch in the Arduino IDE. 
 
-Note: the current example code doesn't actually use the full potential of the ESP8266, i.e. does not use WiFi. Could have used another Arduino compatible board as well, but in this case it was chosen because of its compact size. 
+Notes:
+* The current example code doesn't actually use the full potential of the ESP8266, i.e. does not use WiFi. Could have used another Arduino compatible board as well, but in this case it was chosen because of its compact size. 
+* Do not power the ESP from both the USB and the power source at the same time! Disconnect the wires powering the ESP from the power supply while programming the ESP via USB. (Read more about ESP power supply: https://techexplorations.com/guides/esp32/begin/power/)
 
 ## Pictures
 
