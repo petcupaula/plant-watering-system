@@ -51,3 +51,11 @@ Note: the current example code doesn't actually use the full potential of the ES
 The "plant watering backpack":
 
 <img src="esp8266/pics/IMG_0470.png" width="600">
+
+<img src="esp8266/pics/IMG_0473.png" width="600">
+
+See more pics in `esp8266/pics/`
+
+Based on initial experiments, it seems that the soil moisture sensor gets degraded over time, so might need to have some extras at hand, and change them over time.
+
+<img src="esp8266/pics/IMG_0474.png" width="600">
